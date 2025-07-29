@@ -20,22 +20,22 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=flat&logo=reactivex&logoColor=white)
 
 **Backend & Tools:**  
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=flat&logo=reactivex&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giorgigh&show_icons=true&theme=github_dark&count_private=true&hide=contribs" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorgigh&layout=compact&theme=github_dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ghveda&show_icons=true&theme=github_dark&count_private=true&hide=contribs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghveda&layout=compact&theme=github_dark" height="180"/>
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ### 🔥 GitHub Streak & Contributions
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=giorgigh&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img src="https://streak-stats.demolab.com?user=Ghveda&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
 ---
@@ -51,13 +51,13 @@
 ### 🏆 GitHub Trophies (Optional)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=giorgigh&theme=onedark&no-frame=true&no-bg=true&rank=SECRET,SS,S,AAA,AA,A,B" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ghveda&theme=onedark&no-frame=true&no-bg=true&rank=SECRET,SS,S,AAA,AA,A,B" />
 </p>
 
 ---
 
 ### 📫 Let's Connect!
 
-Feel free to reach out and connect on [LinkedIn](https://www.linkedin.com/in/your-link/)  
+Feel free to reach out and connect on [LinkedIn](https://www.linkedin.com/in/giorgi-ghvedashvili-903572195/)  
 Or check out some of my featured projects here on GitHub!
 
