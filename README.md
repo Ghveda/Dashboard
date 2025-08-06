@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Full Stack Developer</strong><br/>
   5+ years of experience building web applications<br/>
-  Currently focused on mastering <strong>.NET and C#</strong>
+  Currently focused on mastering <strong>Node (Express & Nest js)</strong>
 </p>
 
 ---
@@ -24,10 +24,15 @@
 ![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=flat&logo=reactivex&logoColor=white)
 
 **Backend & Tools:**  
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)  
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Microservices](https://img.shields.io/badge/-Microservices-FF6F00?style=flat&logo=microgen&logoColor=white)
 
 ---
 
